@@ -32,7 +32,7 @@ This repository includes 20 exercises, ranging from beginner to expert level, ea
 14. **Custom Sorting**: Sort a list of tuples based on the second element.
 15. **Flatten a Complex List**: Flatten a deeply nested list structure.
 16. **Find Pythagorean Triples**: Generate Pythagorean triples within a range.
-17. **Pascal's Triangle**: Generate the first 5 rows of Pascal's triangle.
+17. **PAll possible combinations of two lists**: Generate a list of all possible combinations of two lists.
 18. **Matrix Multiplication**: Multiply two matrices.
 19. **Text Processing**: Count word frequencies in a text.
 20. **Anagram Detection**: Identify anagrams from a list of words.
